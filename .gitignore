@@ -166,3 +166,5 @@ train.txt
 *.xlsx
 test.txt
 data/
+data/**/*
+*.txt
